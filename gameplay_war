@@ -1,9 +1,11 @@
+int Player1Deckcount
+int Player2Deckcount
 Set up:
 With you and another person, take out the jokers and shuffle the cards.
 Give yourself and your opponent 26 faced down cards.
 Place the 26 cards in front of you.
 both you and your opponent can’t see your cards.
-if your card value is higher:
+if your card value is higher://specify if face cards are higher then each other
   then you win the round.
 Ace is the highest card.
 2 is the lowest card of the game.
@@ -48,3 +50,4 @@ else:
 If you run out of cards:
   then you lose the game.
 else you play another round:
+//try to condense these if else statements becuase right now its very confusing to read. Put some brackets as well
