@@ -41,7 +41,7 @@ else:
 If you have the higher card:
   then you win the round and put all cards on the bottom of the deck.
 else if you opponent has the higher card:
-  then your opponent win the round and puts the two cards on the bottom of the deck.
+  then your opponent win the round and puts all cards on the bottom of the deck.
 else:
   while top showing card is the same :
     then put the next 4 cards faced down and put the next card of the deck faced up.
