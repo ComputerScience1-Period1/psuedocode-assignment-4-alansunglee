@@ -1,27 +1,29 @@
-Rules/Set Up:
-With two players.
-Take out the jokers and shuffle the cards.
-Each person gets 26 cards.
+Set up:
+with two players, take out the jokers and shuffle the cards
+give you and your opponent 26 cards each
 both you and your opponent put their cards faced down in front 
-Both you and your opponent can't see either of the decks.
+both you and your opponent can't see either of the decks
 2 is the lowest card of the game.
-Jack is an 11, Queen is a 12, King is a 13, and Ace is a 13.
-//add a rule stating what happens when your play the same card
-
-Turns
-Count to 3.
-both you and your opponent put the top card face up in front of you.
+jack beats a 10, queen beats a jack, king beats a queen, an ace beats all cards.
+(setup)
+Take the deck and shuffle it.
+Give you and the other person 26 faced down cards
+both you and your opponent put their cards faced down, and neither of you can see either of the decks.
+(first 3 rounds)
+1) Count to 3;
+both of you put the top card face up in front of you.
 If you have the higher card:
   then you win the round and put the two cards on the bottom of the deck.
 else if your opponent has the higher card:
-  then your opponent wins the round and takes the two cards played
-While the card value played is the same:
-  then put your next 4 cards faced down and put the next card of the deck faced up.
+  then your opponent wins the round and put the two cards on the bottom of the deck.
+While the card value is the same:
+    then put the next 4 cards faced down and put the next card of the deck faced up.
   If you have the higher card:
     then you win the round and put all cards on the bottom of the deck.
-  Else if you opponent has the higher card:
+  If you opponent has the higher card:
     then your opponent win the round and puts the two cards on the bottom of the deck.
-
+  If else:
+    then put the next 4 cards faced down and put the next card of the deck faced up.
 If you run out of cards:
   then you lose the game.
 If your opponent runs our of cards:
